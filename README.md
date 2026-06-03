@@ -226,7 +226,7 @@ The model achieved high accuracy and strong generalization on unseen data.
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 * Python
 * Scikit-Learn
